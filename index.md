@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+##当ページについて
+　このページは、GitHubもアプリ開発もLinuxも初心者のド素人が、いろいろメモ等を書いていくページです。特に目新しいものはありませんが、それでもよければ、ゆっくりご覧ください。なにか気になる点等ありましたら、Twitterにリプライいただけると助かります。
 
-You can use the [editor on GitHub](https://github.com/Kaniyama-t/Kaniyama-t.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##自己紹介
+ユーザ名：kaniyama_t
+Twitter ：<a href="https://twitter.com/kaniyama_t" title="Twitter @kaniyama_t">@kaniyama_t</a>
+活動内容：主にAndroidアプリをなんとなーくで作っております。また、linuxについても軽く触っており、主にarch linuxを使用しています。全くの初心者で、当ページではメモや覚書(おぼえがき)等をこれまたテキトーに書いていく予定です。
+使用言語：Java(androidアプリ開発), VisualBasic(Windowsフォームアプリケーション)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kaniyama-t/Kaniyama-t.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
