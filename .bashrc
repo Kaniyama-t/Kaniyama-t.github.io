@@ -1,0 +1,1 @@
+alias n="bash sc/newpost.sh"
