@@ -3,7 +3,7 @@ layout: post
 title:  "最低限で快適なお試しjekyllブログを作るtips"
 date:   2024-04-25 12:17:52 +0900
 categories: blog
-published: false
+published: true
 ---
 
 「なんとなく建てるか」で立たないjekyllブログのつくりかた（最低限）をサイトの試運転がてらメモっておきます。
@@ -36,7 +36,7 @@ published: false
   - `git add .`
   - `git commit -m "<MESSAGE>"`
   - `git push origin master`
-- 最後にGithubのレポジトリページから、 `Settings > Pages > Build and deployment > Branch` のディレクトリ設定を `_site` にして終わり！
+- 完成！
 
 # もっと快適にしたい
 
