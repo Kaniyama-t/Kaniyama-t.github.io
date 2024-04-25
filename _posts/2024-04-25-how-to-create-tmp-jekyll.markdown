@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "最低限で快適なお試しjekyllブログを作るtips"
-date:   2024-04-25 Apr:04:1714012873 +0900
+date:   2024-04-25 12:17:52 +0900
 categories: blog
 published: false
 ---
