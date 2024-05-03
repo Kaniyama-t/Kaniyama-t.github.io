@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【TBD】【分報に最適な】memosをCloud Runに上げたい"
+title:  "【分報に最適な】memosをCloud Runに上げたい"
 date:   2024-05-03 18:59:25 +0900
 categories: blog
 published: true
