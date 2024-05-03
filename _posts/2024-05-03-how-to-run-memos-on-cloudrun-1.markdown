@@ -43,7 +43,7 @@ published: true
 
 # memosとは
 
-[![usememos/memos](img/memos_demoimg.png)](https://github.com/usememos/memos)
+[![usememos/memos](../../../../img/memos_demoimg.png)](https://github.com/usememos/memos)
 
 青くて飛ぶやつの某SNSライクに使えるメモツール。  
 操作感が **【もろソレ】** なので、なにかをメモりたいときに「メモツール立ち上げるのめんどいな」となりにくい。  
